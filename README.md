@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-<meta charset="UTF-8">
-<title>隐私政策</title>
-<meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
-<style>
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif}
-body,html{overflow-x:hidden;margin:0;padding:0}
-.box{width:100%;overflow:hidden}
-.box .title{margin:2% 4%;border-bottom:1px solid #dcdcdc;padding-bottom:2%}
-.box .title h2{font-size:1.1rem;color:#333;text-align:center;margin:8px 0}
-.box .body{margin:0 4%;font-size:0.875rem;color:#333;line-height:1.8rem;padding-bottom:8%}
-.box .body p{margin:3% 0}
-.box .body h3{font-size:0.95rem;margin:5% 0 2% 0;color:#222}
-ul{padding-left:1.2em;margin:2% 0}
-li{margin-bottom:2%}
-.high{background:#e8f5e9;padding:10px 14px;border-left:4px solid #4caf50;margin:12px 0;border-radius:4px}
-</style>
-</head>
-<body>
+
 <div class="box">
 <div class="title"><h2>隐私政策</h2><p style="text-align:center;color:#999;font-size:0.75rem">最后更新日期：2026年6月5日</p></div>
 <div class="body">
