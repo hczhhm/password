@@ -1,5 +1,5 @@
 <div class="box">
-<div class="title"><h2>隐私政策</h2></div>
+<div class="title"><h2>隐私政策</h2><p style="text-align:center;color:#999;font-size:0.75rem">最后更新日期：2026年6月5日</p></div>
 <div class="body">
 
 <p>密码管理（以下简称"本软件"）高度重视用户隐私保护。本政策依据《中华人民共和国个人信息保护法》《中华人民共和国网络安全法》《中华人民共和国数据安全法》制定。</p>
